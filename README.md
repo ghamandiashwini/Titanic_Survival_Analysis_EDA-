@@ -79,8 +79,8 @@ The dataset contains passenger information, including:
 ```
 Titanic_Survival_Analysis_EDA/
 │
-├── Titanic_Survival_Analysis.ipynb
-├── train.csv
+├── titanic.ipynb
+├── Titanic.csv
 ├── README.md
 ```
 
@@ -91,7 +91,7 @@ Titanic_Survival_Analysis_EDA/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Titanic_Survival_Analysis_EDA.git
+git clone https://github.com/ghamandiashwini/Titanic_Survival_Analysis_EDA-.git
 ```
 
 2. Navigate to the project folder
